@@ -1,3 +1,3 @@
-# playgroud
+# playground
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sergioadonis/playgroud)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sergioadonis/playground)
