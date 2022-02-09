@@ -1,3 +1,4 @@
 vscode:
   extensions:
     - ms-python.python
+    - ms-toolsi.jupyter
